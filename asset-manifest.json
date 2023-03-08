@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.4473336c.css",
+    "main.js": "/react-portfolio/static/js/main.f8196f07.js",
+    "static/media/Gladys.jpg": "/react-portfolio/static/media/Gladys.9fc1951ed27af7478d0b.jpg",
+    "static/media/myResume.pdf": "/react-portfolio/static/media/myResume.9dc712d09b907fc1591b.pdf",
+    "static/media/Note Taker.png": "/react-portfolio/static/media/Note Taker.53c68a6a380ae3a697be.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.4473336c.css.map": "/react-portfolio/static/css/main.4473336c.css.map",
+    "main.f8196f07.js.map": "/react-portfolio/static/js/main.f8196f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4473336c.css",
+    "static/js/main.f8196f07.js"
+  ]
+}
