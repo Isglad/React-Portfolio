@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.b353a2fd.css",
-    "main.js": "/React-Portfolio/static/js/main.f349b3af.js",
+    "main.css": "/React-Portfolio/static/css/main.83277f28.css",
+    "main.js": "/React-Portfolio/static/js/main.dad7444f.js",
     "static/media/refactored marketing site.png": "/React-Portfolio/static/media/refactored marketing site.fb25fb0cbf22401b05a7.png",
     "static/media/Gladys.jpg": "/React-Portfolio/static/media/Gladys.9fc1951ed27af7478d0b.jpg",
     "static/media/myResume.pdf": "/React-Portfolio/static/media/myResume.9dc712d09b907fc1591b.pdf",
@@ -13,11 +13,11 @@
     "static/media/Note Taker.png": "/React-Portfolio/static/media/Note Taker.53c68a6a380ae3a697be.png",
     "static/media/Password Generator.png": "/React-Portfolio/static/media/Password Generator.03d637affcac60096784.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.b353a2fd.css.map": "/React-Portfolio/static/css/main.b353a2fd.css.map",
-    "main.f349b3af.js.map": "/React-Portfolio/static/js/main.f349b3af.js.map"
+    "main.83277f28.css.map": "/React-Portfolio/static/css/main.83277f28.css.map",
+    "main.dad7444f.js.map": "/React-Portfolio/static/js/main.dad7444f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b353a2fd.css",
-    "static/js/main.f349b3af.js"
+    "static/css/main.83277f28.css",
+    "static/js/main.dad7444f.js"
   ]
 }
