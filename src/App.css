@@ -1,0 +1,242 @@
+#root{
+    height: 100vh;
+    background-color: #070719;
+}
+
+/* Nav Tabs */
+
+.header {
+    height:10%;
+    background-color: #333;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+  
+.nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+margin-right: 20px;
+}
+
+.nav li:last-child {
+margin-right: 0;
+}
+
+.nav a {
+display: block;
+color: #fff;
+text-decoration: none;
+padding: 10px;
+}
+
+/* Media query for screens smaller than 768px */
+@media screen and (max-width: 767px) {
+.nav ul {
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav li {
+    margin: 10px 0;
+}
+}
+  
+
+/* Content Page */
+
+.main-content{
+    height:auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10%;
+    background-color: #070719;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .main-content {
+      height: auto;
+      padding: 0px 0px 10% 0px;
+      overflow: scroll;
+    }
+  
+  }
+  
+
+/* Home Page */
+.hero{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 200px;
+}
+
+.content h1{
+    margin: 0px 0px 30px 4px;
+    color: #64ffda;
+    font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.myName{
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    color: #8892b0;
+    line-height: 1.1;
+}
+
+.text{
+    margin-top: 5px;
+    color: #8892b0;
+    line-height: 0.9;
+}
+
+.big-heading {
+    margin: 0px;
+    font-size: clamp(40px, 8vw, 80px);
+    font-weight: 600;
+}
+
+.text-content{
+    margin: 60px 0px 0px;
+    max-width: 540px;
+    color:#8892b0;
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;;
+}
+
+/* About Me */
+.about-heading{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: 10px 0px 40px;
+    width: 100%;
+    font-size: clamp(26px,5vw,32px);
+    white-space: nowrap;
+    padding-top: 40px;
+    color: #ccd6f6
+}
+
+.about-text p{
+    margin: 0px 0px 15px;
+    color:#8892b0;
+    padding: 20px;
+}
+
+.inner{
+    display: flex;
+    gap: 50px;
+    flex-direction:column-reverse;
+    flex-wrap: wrap;
+}
+
+.about-picture{
+    position: relative;
+    max-width: 300px;
+}
+
+.wrapper{
+    transition: all 0.25s cubic-bezier(0.645,0.045,0.355,1);
+    display: block;
+    position: relative;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.image-container{
+    max-width: 500px;
+    display: block;
+}
+
+.image-style{
+    max-width: 100%;
+    display: block;
+    position: static;
+    border-radius: 60px;
+    max-width: 150px;
+
+
+}
+
+/* Portfolio */
+
+.project-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 60px;
+  }
+  
+.project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+  
+@media screen and (min-width: 768px) {
+        .project-container {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            padding: 0px 10px 10px 10px;
+    }
+}
+  
+  
+.project-container a img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+  
+
+.portfolio-section{
+    padding-left: 40px;
+}
+.section-title{
+    color: #ccd6f6;
+}
+
+
+.project-title{
+    color:#8892b0;
+
+}
+
+/* Contact */
+
+#contact h2{
+    color:#ccd6f6;
+}
+
+#contact p, label{
+    color:#8892b0;
+}
+
+
+/* Resume */
+.resume h2, h3{
+    color:#ccd6f6;
+}
+
+.resume p, li{
+    color:#8892b0;
+}
+
+.resume a{
+    color: #64ffda;
+}
+
+
+/* Footer */
+.footer{
+    height:10%;
+    display: flex!important;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
