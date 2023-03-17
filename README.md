@@ -38,13 +38,11 @@ In order to use the application locally, Run the following command:
 
 ## Author Info 
 
-```md
 ### Gladys Ange Isingizwe 
 
 * [Email](gladyisingizwe@gmail.com)
 * [LindeIn](www.linkedin.com/in/gladys-isingizwe)
 * [Github](https://github.com/Isglad)
-```
 
 ## Credits
 
