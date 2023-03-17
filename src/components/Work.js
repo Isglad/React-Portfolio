@@ -23,10 +23,10 @@ function Portfolio() {
     },
     {
       id: 3,
-      title: "Weather Dashboard",
-      image: require("../Resources/images/Weather Dashboard.png"),
-      deployedLink: "https://isglad.github.io/weather-dashboard/",
-      githubLink: "https://github.com/Isglad/weather-dashboard",
+      title: "NewBee Financial",
+      image: require("../Resources/images/newBeeDeploy.gif"),
+      deployedLink: "https://fierce-plains-86350.herokuapp.com/",
+      githubLink: "https://github.com/bradcoleman60/NewBee-Financial",
     },
     {
       id: 4,
@@ -45,11 +45,11 @@ function Portfolio() {
     },
     {
       id: 6,
-      title: "Refactored Marketing Site",
-      image: require("../Resources/images/refactored marketing site.png"),
+      title: "Weather Dashboard",
+      image: require("../Resources/images/Weather Dashboard.png"),
       deployedLink:
-        "https://isglad.github.io/refactoring-marketing-site/#search-engine-optimization",
-      githubLink: "https://github.com/Isglad/refactoring-marketing-site",
+        "https://isglad.github.io/weather-dashboard/",
+      githubLink: "https://github.com/Isglad/weather-dashboard",
     },
     {
       id: 7,
