@@ -25,7 +25,7 @@ function Portfolio() {
       id: 3,
       title: "NewBee Financial",
       image: require("../Resources/images/newBeeDeploy.gif"),
-      deployedLink: "https://fierce-plains-86350.herokuapp.com/",
+      deployedLink: "https://infinite-wildwood-67913.herokuapp.com/",
       githubLink: "https://github.com/bradcoleman60/NewBee-Financial",
     },
     {
