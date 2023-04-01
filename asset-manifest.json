@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.83277f28.css",
-    "main.js": "/React-Portfolio/static/js/main.203dd684.js",
+    "main.js": "/React-Portfolio/static/js/main.2f14e6d8.js",
     "static/media/newBeeDeploy.gif": "/React-Portfolio/static/media/newBeeDeploy.43704a414d2d3e047eef.gif",
     "static/media/Gladys.jpg": "/React-Portfolio/static/media/Gladys.9fc1951ed27af7478d0b.jpg",
-    "static/media/myResume.pdf": "/React-Portfolio/static/media/myResume.9dc712d09b907fc1591b.pdf",
     "static/media/project panda.png": "/React-Portfolio/static/media/project panda.0b2cd34b35a7848cac38.png",
     "static/media/Weather Dashboard.png": "/React-Portfolio/static/media/Weather Dashboard.5734e011411e67565ab9.png",
     "static/media/Jeopardy game.png": "/React-Portfolio/static/media/Jeopardy game.b19df525c012aa2b96d3.png",
+    "static/media/Gladys_Ange_Isingizwe-Resume.pdf": "/React-Portfolio/static/media/Gladys_Ange_Isingizwe-Resume.d6a09cd07fd406171da8.pdf",
     "static/media/work day scheduler.png": "/React-Portfolio/static/media/work day scheduler.125b3782e24997893b72.png",
     "static/media/code quiz.png": "/React-Portfolio/static/media/code quiz.701df9617b1291a809d9.png",
     "static/media/Note Taker.png": "/React-Portfolio/static/media/Note Taker.53c68a6a380ae3a697be.png",
     "static/media/Password Generator.png": "/React-Portfolio/static/media/Password Generator.03d637affcac60096784.png",
     "index.html": "/React-Portfolio/index.html",
     "main.83277f28.css.map": "/React-Portfolio/static/css/main.83277f28.css.map",
-    "main.203dd684.js.map": "/React-Portfolio/static/js/main.203dd684.js.map"
+    "main.2f14e6d8.js.map": "/React-Portfolio/static/js/main.2f14e6d8.js.map"
   },
   "entrypoints": [
     "static/css/main.83277f28.css",
-    "static/js/main.203dd684.js"
+    "static/js/main.2f14e6d8.js"
   ]
 }
