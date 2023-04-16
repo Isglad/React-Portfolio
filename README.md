@@ -2,7 +2,7 @@
 
 ## Description
 
-[Deployed site](https://isglad.github.io/React-Portfolio/#resume)
+[Deployed site](https://isglad.github.io/React-Portfolio/)
 
 This portfolio project is a single-page application that displays different sections based on the one selected from the navigation tab.
 
